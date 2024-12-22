@@ -9,4 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojitha0930/Level_1/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/poojitha0930/Level_1/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/poojitha0930/Level_1/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/poojitha0930/Level_1/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
