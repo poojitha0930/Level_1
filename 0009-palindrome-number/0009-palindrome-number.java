@@ -1,15 +1,12 @@
 class Solution {
-    public Boolean isPalindrome(int x) {
-        int t=x;
-        int r=0;
-        while(t>0){
-            r=r*10+(t%10);
-            t=t/10;
+    public boolean isPalindrome(int x) {
+        if (x < 0 || (x > 0 && x % 10 == 0)) {
+            return false;
         }
-        
-    return x==r;
-    
-        
-    
+        int y = 0;
+        for (; y < x; x /= 10) {
+            y = y * 10 + x % 10;
+        }
+        return x == y || x == y / 10;
     }
 }
