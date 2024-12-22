@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/poojitha0930/Level_1/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/poojitha0930/Level_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/poojitha0930/Level_1/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/poojitha0930/Level_1/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/poojitha0930/Level_1/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/poojitha0930/Level_1/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/poojitha0930/Level_1/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/poojitha0930/Level_1/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/poojitha0930/Level_1/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/poojitha0930/Level_1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/poojitha0930/Level_1/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/poojitha0930/Level_1/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
