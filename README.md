@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojitha0930/Level_1/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/poojitha0930/Level_1/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/poojitha0930/Level_1/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
