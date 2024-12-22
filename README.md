@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/poojitha0930/Level_1/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojitha0930/Level_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/poojitha0930/Level_1/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/poojitha0930/Level_1/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/poojitha0930/Level_1/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/poojitha0930/Level_1/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poojitha0930/Level_1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/poojitha0930/Level_1/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/poojitha0930/Level_1/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/poojitha0930/Level_1/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -151,8 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poojitha0930/Level_1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/poojitha0930/Level_1/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/poojitha0930/Level_1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/poojitha0930/Level_1/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
