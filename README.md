@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/poojitha0930/Level_1/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/poojitha0930/Level_1/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/poojitha0930/Level_1/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/poojitha0930/Level_1/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/poojitha0930/Level_1/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/poojitha0930/Level_1/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/poojitha0930/Level_1/tree/master/0257-binary-tree-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/poojitha0930/Level_1/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
