@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/poojitha0930/Level_1/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/poojitha0930/Level_1/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/poojitha0930/Level_1/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/poojitha0930/Level_1/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/poojitha0930/Level_1/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/poojitha0930/Level_1/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
